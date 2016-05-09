@@ -1,4 +1,3 @@
- javabuzz.js
- ===
- 
- Traditional Fizzbuzz game in Javascript.
+## Javabuzz
+
+Traditional Fizzbuzz game in Javascript.
